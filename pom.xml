@@ -23,7 +23,7 @@
 
     <properties>
         <cdh.version>2.6.0-cdh5.7.6</cdh.version>
-        <cdh.version2>2.6.0-mr1-cdh5.7.6</cdh.version2>
+        <cdh.version2>2.7.0</cdh.version2>
     </properties>
 
     <dependencies>
